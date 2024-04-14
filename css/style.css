@@ -1,0 +1,57 @@
+/* style.css */
+
+
+body {
+  font-family: 'Sans Serif', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e5d8c8;
+}
+
+header {
+  background: #3a1f04;
+  padding: 10px;
+  color: rgb(212, 175, 100);
+}
+
+.text-bawah {
+  text-align: center;
+  padding-top: 30px;
+  color: #de8943;
+}
+.text-center {
+  text-align: center;
+  color: #ecb07f;
+  font-size: 40px;
+}
+
+ul {
+  display: block;
+  text-align: center;
+}
+
+p {
+  display: block;
+  text-align: center;
+}
+
+form {
+  display: block;
+  margin-inline-start: 37%;
+}
+
+.pesan {
+ margin-bottom: 15px;
+}
+
+.tambah {
+  margin-top: 5px;
+}
+
+.selesai {
+  margin-left: 20%;
+}
+
+
+
